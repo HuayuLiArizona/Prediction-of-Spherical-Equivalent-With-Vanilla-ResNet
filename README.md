@@ -1,0 +1,1 @@
+# Prediction-of-Spherical-Equivalent-With-Vanilla-ResNet
